@@ -1,6 +1,7 @@
 # Act5_rutas1289
 
-![image](https://github.com/user-attachments/assets/c3163967-b566-412d-8c71-dc0a93fa5259)
+![image](https://github.com/user-attachments/assets/75bde281-243a-4e76-8088-13f18f690c91)
+
 - Pantalla 2
   
 ![image](https://github.com/user-attachments/assets/27437b24-6ff4-4661-9820-acba706de339)
